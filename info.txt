@@ -1,0 +1,7 @@
+{
+ "Name": "No Lucky",
+ "ID": "no-lucky",
+ "Version": "1.0",
+ "Author": "voce",
+ "Description": "Remove o efeito Lucky do cookie dourado"
+}
